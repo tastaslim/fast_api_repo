@@ -23,7 +23,7 @@ A simple FastAPI service that provides a REST API for managing resources and han
    ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
    ```
 4. Run the FastAPI app:
    ```bash
