@@ -3,6 +3,8 @@ fastapi[standard]
 uvicorn[standard]
 sqlalchemy
 asyncpg
+psycopg2
 pydantic-settings
 pyjwt
 pwdlib[argon2]
+alembic
